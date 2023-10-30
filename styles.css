@@ -44,10 +44,11 @@ form #a{
 	text-decoration:none;
 }
 
-#sign{
+#sign>button{
 	background-color:#42b72a;
 	padding:10px;
 	border-radius:5px;
+	width:300px;
 	border:none;
 	color:white;
 }
